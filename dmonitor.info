@@ -1,0 +1,5 @@
+name = D-Monitor
+description = "D-Monitor integration"
+core = 7.x
+package = Other
+files[] = classes/dmonitor_int_sa_parser.inc
